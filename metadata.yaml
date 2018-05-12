@@ -1,0 +1,27 @@
+_repo: On-the-Nature-of-Thought--13-Or-The-act-of-thinking-and-its-connexion-with-a-perspicuous-sent__31142
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haslam, John
+    birthdate: 1764
+    deathdate: 1844
+    gutenberg_agent_id: '32876'
+    url: http://www.gutenberg.org/2009/agents/32876
+description: ''
+gutenberg_issued: '2010-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31142'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Thought and thinking'
+title: "On the Nature of Thought\r\nOr, The act of thinking and its connexion with\
+  \ a perspicuous sentence"
+url: http://www.gutenberg.org/ebooks/31142
