@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32876'
     url: http://www.gutenberg.org/2009/agents/32876
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31142#On-the-Nature-of-Thought--13-Or-The-act-of-thinking-and-its-connexion-with-a-perspicuous-sent_
 gutenberg_issued: '2010-01-31'
 gutenberg_type: Text
 identifiers:
